@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "abetterplace"
+  },
+  "targets": {
+    "abetterplace-5bbd4": {
+      "hosting": {
+        "main": [
+          "abetterplace"
+        ],
+        "dev": [
+          "abetterplace-5bbd4"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

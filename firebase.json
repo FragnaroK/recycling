@@ -1,0 +1,26 @@
+{
+	"hosting": [
+		{
+			"site": "abetterplace",
+			"public": "public",
+			"ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+			"rewrites": [
+				{
+					"source": "**",
+					"destination": "/index.html"
+				}
+			]
+		},
+		{
+			"site": "abetterplace-5bbd4",
+			"public": "public",
+			"ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+			"rewrites": [
+				{
+					"source": "**",
+					"destination": "/index.html"
+				}
+			]
+		}
+	]
+}
